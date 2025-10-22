@@ -15,3 +15,10 @@ Mi comportamiento personal y profesional está enmarcado dentro de los más impo
 Actualmente me encuentro en un proceso de transición profesional hacia el mundo de la tecnología y el análisis de datos, un campo que me permite combinar mi formación técnica y mi pensamiento analítico con la toma de decisiones basada en evidencia. Durante este proceso he desarrollado y fortalecido competencias en Excel, Power BI, SQL Server y Python, herramientas que utilizo para la gestión, transformación y visualización de información con el objetivo de generar conocimiento útil para la optimización de procesos y la innovación.
 
 Mi propósito es consolidarme como un analista de datos con visión integral, capaz de comprender tanto el contexto técnico como el impacto real de los datos en los negocios y en la sostenibilidad. Me motiva la posibilidad de aplicar la analítica como una herramienta estratégica para resolver problemas, mejorar la eficiencia y apoyar la construcción de soluciones basadas en información confiable y medible.
+
+## 👨🏻‍💻 ¿Qué tecnología uso?
+
+° Excel
+° SQL Server
+° Power BI
+° Python
