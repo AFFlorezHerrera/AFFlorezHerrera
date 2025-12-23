@@ -18,7 +18,8 @@ Mi propósito es consolidarme como un analista de datos con visión integral, ca
 
 ## 👨🏻‍💻 ¿Qué tecnología uso?
 
-° Excel
+° Excel avanzado
 ° SQL Server
 ° Power BI
 ° Python
+° R
