@@ -4,8 +4,6 @@
 
 Soy Ingeniero Agrónomo y analista de datos, con experiencia en producción, investigación aplicada y gestión de proyectos. He participado activamente en grupos de investigación de Colciencias avalados por la Universidad Nacional de Colombia, lo que me ha permitido fortalecer mi pensamiento crítico, la rigurosidad científica y la capacidad de trabajo en equipo multidisciplinario.
 
-Actualmente me encuentro en un proceso de transición profesional hacia el mundo de la tecnología, donde podre poner en practica mis competencias en Excel, Power BI, SQL Server, Python y y el uso de IA para optimizar análisis y procesos. 
-
 ## ⚡¿Qué me caracteriza?
 
 Mi curiosidad constante, la capacidad de aprendizaje autónomo y la orientación a resultados. Disfruto enfrentar desafíos que combinan la toma de decisiones basada en datos con la sostenibilidad y la innovación, buscando siempre aportar valor y mejorar los procesos en los que participo.
