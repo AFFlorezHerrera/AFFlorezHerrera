@@ -2,7 +2,7 @@
 
 ## 🧔🏻‍♂ ¿Quién soy?
 
-Soy Ingeniero Agrónomo y analista de datos, con experiencia en producción, investigación aplicada y gestión de proyectos. He participado activamente en grupos de investigación de MinCiencias avalados por la Universidad Nacional de Colombia, lo que me ha permitido fortalecer mi pensamiento crítico, la rigurosidad científica y la capacidad de trabajo en equipo multidisciplinario.
+Data Analyst con formación profesional y enfoque en análisis estratégico de información. Experiencia en gestión, limpieza y modelado de bases de datos, construcción de dashboards y automatización de procesos utilizando herramientas como SQL, Python, Power BI y paquete Microsoft Office. He trabajado en estructuración de datasets, análisis exploratorio de datos (EDA) y generación de indicadores para apoyar la toma de decisiones basada en datos.
 
 ## ⚡¿Qué me caracteriza?
 
